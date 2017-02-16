@@ -74,3 +74,5 @@ Temporary Items
 .idea/misc.xml
 .idea/modules.xml
 .idea/ssomai.github.io.iml
+
+node-modules/
